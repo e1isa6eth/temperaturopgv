@@ -1,0 +1,8 @@
+C:\Users\black\OneDrive\Documents\temperatur1\TemperaturIfElseWhile\obj\Debug\TemperaturIfElseWhile.csproj.AssemblyReference.cache
+C:\Users\black\OneDrive\Documents\temperatur1\TemperaturIfElseWhile\obj\Debug\TemperaturIfElseWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\black\OneDrive\Documents\temperatur1\TemperaturIfElseWhile\obj\Debug\TemperaturIfElseWhile.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Documents\temperatur1\TemperaturIfElseWhile\bin\Debug\TemperaturIfElseWhile.exe.config
+C:\Users\black\OneDrive\Documents\temperatur1\TemperaturIfElseWhile\bin\Debug\TemperaturIfElseWhile.exe
+C:\Users\black\OneDrive\Documents\temperatur1\TemperaturIfElseWhile\bin\Debug\TemperaturIfElseWhile.pdb
+C:\Users\black\OneDrive\Documents\temperatur1\TemperaturIfElseWhile\obj\Debug\TemperaturIfElseWhile.exe
+C:\Users\black\OneDrive\Documents\temperatur1\TemperaturIfElseWhile\obj\Debug\TemperaturIfElseWhile.pdb
